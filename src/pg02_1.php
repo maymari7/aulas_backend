@@ -52,6 +52,8 @@ echo "<hr>";
     $notadecimal=9.5; //valor cheio menos a parte inteira (9.5 - 5 = 0.5)
     echo "nota = " .$notadecimal - (int)$notadecimal;
 
-
+//git add .
+//git commit -m "nome do commit"
+//git push
 ?>
 
