@@ -25,7 +25,7 @@ var_dump($e);
 echo "<hr>";
 
 //ou
-$f=($a>$b) || ($c<1000);
+$f=($a>$b) || ($c<1000); //|| só é falso quando as duas condições são falsas, se uma for verdadeira o resultado é verdadeiro
 var_dump($f);
 echo "<hr>";
 
